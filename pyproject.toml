@@ -6,6 +6,8 @@ authors = ["hisakonakaoka <chacohn0804@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+line-bot-sdk = "^2.3.0"
+Flask = "^2.2.2"
 
 [tool.poetry.dev-dependencies]
 
